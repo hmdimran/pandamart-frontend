@@ -1,0 +1,20 @@
+.panda-bg-danger {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.panda-bg-primary {
+  background-color: #fceae8;
+}
+.panda-bg-orange {
+  background-color: #ffa500;
+}
+.panda-bg-success {
+  background-color: #da70d6;
+}
+.panda-bg-blue {
+  background-color: #0000ff;
+}
